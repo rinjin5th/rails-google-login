@@ -1,0 +1,2 @@
+# rails-google-login
+railsでgoogleログインするやつ
